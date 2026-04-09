@@ -1,0 +1,13 @@
+# Compiled class files
+WEB-INF/classes/
+
+# Database files (optional, but recommended to prevent committing user data and binary conflicts)
+data/*.db
+data/*.sqlite
+
+# Backup folders
+desktop_backup/
+
+# OS generated files
+.DS_Store
+Thumbs.db
